@@ -6,7 +6,7 @@ Users can load current top news headlines by tapping the "Load News" button. The
 
 The purpose of creating this app is to deepen my skills in Android development with Kotlin, Retrofit for networking, and UI design using RecyclerView. It also serves as practice for integrating third-party APIs and managing asynchronous calls.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/O7onSMXnlXM)
 
 # Development Environment
 
